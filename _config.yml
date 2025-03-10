@@ -20,7 +20,7 @@
 
 title: You wish you knew ActiveMQ?
 description: >- # this means to ignore newlines until "baseurl:"
-  A collection of articles about ActiveMQ.
+  A collection of information about Apache ActiveMQ Classic (ActiveMQ).
 baseurl: "" # the subpath of your site, e.g. /blog
 domain: activemq.uwi.sh # to help enable HTTPS
 url: "https://activemq.uwi.sh" # the base hostname & protocol for your site, e.g. http://example.com
@@ -52,3 +52,4 @@ plugins:
 
 exclude:
   - README.md
+  - Gemfile
